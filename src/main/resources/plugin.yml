@@ -1,0 +1,8 @@
+name: CubedWorldGen
+version: '${version}'
+main: pw.chew.cubedworldgen.CubedWorldGen
+api-version: 1.19
+load: STARTUP
+authors: [ Chew ]
+description: Generates the world for Cubed Survival
+website: https://chew.codes
